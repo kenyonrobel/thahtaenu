@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahdato.piccolo2d.org/sitemap.xml
